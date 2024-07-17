@@ -1,2 +1,2 @@
-- Future Engineer, only 17, with an obsession over Computer Science that needs treatment ✨⭐️💫
+- Future Engineer, 17, with an obsession over Computer Science that needs treatment ✨⭐️💫
 - Golang boi and Astro lover 🫶
