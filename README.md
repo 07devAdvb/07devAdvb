@@ -1,2 +1,2 @@
 - Future Engineer, 17, with an obsession over Computer Science that needs treatment ✨⭐️💫
-- Golang boi and Astro + Alpine lover 🫶
+- Golang boi and Astro+Alpine lover 🫶
