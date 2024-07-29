@@ -1,2 +1,3 @@
-- Future Engineer, 17, with an obsession over Computer Science that needs treatment ✨⭐️💫
-- Golang boi and Astro+Alpine lover 🫶
+- Future Engineer, 17, with an obsession over Computer Science and AI that needs treatment ✨⭐️💫
+- Golang and Python boi 🫶
+- Does mainly backend development, from web to games through os 😝
