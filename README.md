@@ -1,3 +1,3 @@
 - Future Engineer, 17, with an obsession over Computer Science and AI that needs treatment ✨⭐️💫
-- Golang and Python boi 🫶
-- Does mainly backend development, from web to games through os 😝
+- Python, Rust, and Go boi 🫶
+- Does mainly backend development, from web to os through cli 😝
